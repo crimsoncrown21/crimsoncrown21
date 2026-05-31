@@ -19,3 +19,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crimsoncrown21&" alt="crimsoncrown21" /></p>
  -->
+<div align="center">
+
+# Hi, I'm Harsh 👋
+
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40crimsoncrown21-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/crimsoncrown21) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40harsh-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/harsh)
+
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/crimsoncrown21.svg?variant=secondary&size=sm)](https://github.com/crimsoncrown21?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/crimsoncrown21.svg?variant=secondary&size=sm)](https://github.com/crimsoncrown21?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-3-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/crimsoncrown21?tab=repositories)
+
+</div>
+
+---
+
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
